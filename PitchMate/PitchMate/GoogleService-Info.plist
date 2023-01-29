@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589419125538-34qct4ivcoa74q24f9aqksnercnj27fd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589419125538-34qct4ivcoa74q24f9aqksnercnj27fd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKLQowVKa92QeP2KPd3YR-QcRv-NA-leE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589419125538</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ai.ermi.PitchMate</string>
+	<key>PROJECT_ID</key>
+	<string>pitchmate-67916</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pitchmate-67916.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589419125538:ios:11a7012a80d6437abb637b</string>
+	<key>DATABASE_URL</key>
+	<string>https://pitchmate-67916-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
